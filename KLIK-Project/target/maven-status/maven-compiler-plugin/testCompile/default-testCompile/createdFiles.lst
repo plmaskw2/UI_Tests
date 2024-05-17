@@ -1,0 +1,14 @@
+tests\ChatFunctionalityTest.class
+base\BaseStepdefs.class
+base\WebBaseTestJUnit.class
+data_provider\DataProvider.class
+stepdefs\StartupStepdefs.class
+stepdefs\ForumStepdefs.class
+base\BaseTest.class
+old\SeleniumPresenceTest.class
+tests\RegistrationTest.class
+base\AfterTestExecutionCallbackBase.class
+stepdefs\MessagesStepdefs.class
+stepdefs\NavigationStepdefs.class
+tests\ForumInteractionsTest.class
+stepdefs\DashboardStepdefs.class
